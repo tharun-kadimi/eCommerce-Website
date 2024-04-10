@@ -35,7 +35,7 @@ const Navbar = () => {
           <Link style={{ textDecoration: "none" }} to="/kids">
             Kids
           </Link>{" "}
-          {menu === "kids" ? <hr /> : ""}{" "}
+          {menu === "kids" ? <hr /> : ""}
         </li>
       </ul>
       <div className="nav-login-cart">
