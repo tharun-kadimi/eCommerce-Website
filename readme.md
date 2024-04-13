@@ -4,14 +4,13 @@ ClothMarket is an e-commerce platform for buying and selling clothes. The websit
 
 # Tech Stack
 
-React
-React Router
-JavaScript
+React,
+React Router,
+JavaScript,
 CSS,
 HTML
 
 # Features
-User authentication (sign up, log in, log out)
 Displaying a list of products with images, names, prices, and descriptions
 Adding products to the cart
 Calculating the total price of the products in the cart
